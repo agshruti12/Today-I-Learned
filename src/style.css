@@ -239,6 +239,7 @@ ul {
 
 section {
   overflow: scroll;
+  padding-bottom: 50px;
 }
 
 /* .message {
